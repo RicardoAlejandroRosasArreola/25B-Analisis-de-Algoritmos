@@ -1,4 +1,4 @@
-#Requisitos
+# Requisitos
 - Phyton 3.10+
 - Descargar matplotlib (pip install matplotlib)
 
